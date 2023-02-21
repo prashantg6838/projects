@@ -1,0 +1,14 @@
+version : 2
+
+sources :
+  - name: staging
+    database: pure-album-375307
+    schema: dezoomcamp2
+  
+    tables :
+      - name: green_taxi_tripdata
+      - name: yellow_taxi_tripdata
+    
+
+    
+    
